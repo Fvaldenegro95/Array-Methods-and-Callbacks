@@ -53,7 +53,8 @@ Use the higher-order function getWinners to do the following:
 2. Receives the callback function getFinals from task 2 
 3. Determines the winner (home or away) of each `finals` game. 
 4. Returns the names of all winning countries in an array called `winners` */ 
-
+// use win conditions
+//dont worry about overtime, compare home team goals to away team goals
 function getWinners(/* code here */) {
     /* code here */
 }
